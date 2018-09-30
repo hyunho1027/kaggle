@@ -2,3 +2,4 @@ log/
 data/
 .ipynb_checkpoints/
 *.csv
+input/
